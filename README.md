@@ -14,12 +14,13 @@ This analysis aims to uncover interesting trends and insights concerning the gap
 
 ## Data Sources:
 
-The data has been compiled from publicly available sources.
--[Rotten Tomatoes dataset, Reddit](https://www.reddit.com/r/datasets/comments/1ecj6m2/dataset_for_rotten_tomatoes_movies_1970_2024/)
--[Rotten Tomatoes dataset + Critic Reviews dataset, Kaggle](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews)
--Rotten Tomatoes 'Streaming Now' web scrape
--[Oscar Award Winners and Nominees, Dataful](https://dataful.in/datasets/15704/)
--[Box Office web scrape](https://worldwideboxoffice.com/yearly.cgi)
+The data has been compiled from publicly available sources.  
+
+-[Rotten Tomatoes dataset, Reddit](https://www.reddit.com/r/datasets/comments/1ecj6m2/dataset_for_rotten_tomatoes_movies_1970_2024/)  
+-[Rotten Tomatoes dataset, Kaggle](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews)  
+-Rotten Tomatoes 'Streaming Now' web scrape  
+-[Oscar Award Winners and Nominees, Dataful](https://dataful.in/datasets/15704/)  
+-[Box Office web scrape](https://worldwideboxoffice.com/yearly.cgi)  
 
 ## Presentation: 
 
